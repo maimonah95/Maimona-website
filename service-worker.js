@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Maimona-website/precache-manifest.dfc8e3469440c7b195ac1db7c5b77dd8.js"
+  "/Maimona-website/precache-manifest.c72a4af67ce9e4477529dec691fca74f.js"
 );
 
 self.addEventListener('message', (event) => {

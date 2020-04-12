@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Maimona-website/static/css/main.c389c768.chunk.css",
-    "main.js": "/Maimona-website/static/js/main.e7e5185c.chunk.js",
-    "main.js.map": "/Maimona-website/static/js/main.e7e5185c.chunk.js.map",
+    "main.css": "/Maimona-website/static/css/main.0de98792.chunk.css",
+    "main.js": "/Maimona-website/static/js/main.ec549039.chunk.js",
+    "main.js.map": "/Maimona-website/static/js/main.ec549039.chunk.js.map",
     "runtime-main.js": "/Maimona-website/static/js/runtime-main.eee77e01.js",
     "runtime-main.js.map": "/Maimona-website/static/js/runtime-main.eee77e01.js.map",
     "static/js/2.4c28251f.chunk.js": "/Maimona-website/static/js/2.4c28251f.chunk.js",
     "static/js/2.4c28251f.chunk.js.map": "/Maimona-website/static/js/2.4c28251f.chunk.js.map",
     "index.html": "/Maimona-website/index.html",
-    "precache-manifest.dfc8e3469440c7b195ac1db7c5b77dd8.js": "/Maimona-website/precache-manifest.dfc8e3469440c7b195ac1db7c5b77dd8.js",
+    "precache-manifest.c72a4af67ce9e4477529dec691fca74f.js": "/Maimona-website/precache-manifest.c72a4af67ce9e4477529dec691fca74f.js",
     "service-worker.js": "/Maimona-website/service-worker.js",
-    "static/css/main.c389c768.chunk.css.map": "/Maimona-website/static/css/main.c389c768.chunk.css.map",
+    "static/css/main.0de98792.chunk.css.map": "/Maimona-website/static/css/main.0de98792.chunk.css.map",
     "static/js/2.4c28251f.chunk.js.LICENSE.txt": "/Maimona-website/static/js/2.4c28251f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eee77e01.js",
     "static/js/2.4c28251f.chunk.js",
-    "static/css/main.c389c768.chunk.css",
-    "static/js/main.e7e5185c.chunk.js"
+    "static/css/main.0de98792.chunk.css",
+    "static/js/main.ec549039.chunk.js"
   ]
 }

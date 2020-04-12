@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maimonah95/Maimona-website/static/css/main.c389c768.chunk.css",
+    "main.js": "/maimonah95/Maimona-website/static/js/main.e03c4598.chunk.js",
+    "main.js.map": "/maimonah95/Maimona-website/static/js/main.e03c4598.chunk.js.map",
+    "runtime-main.js": "/maimonah95/Maimona-website/static/js/runtime-main.1db77619.js",
+    "runtime-main.js.map": "/maimonah95/Maimona-website/static/js/runtime-main.1db77619.js.map",
+    "static/js/2.4c28251f.chunk.js": "/maimonah95/Maimona-website/static/js/2.4c28251f.chunk.js",
+    "static/js/2.4c28251f.chunk.js.map": "/maimonah95/Maimona-website/static/js/2.4c28251f.chunk.js.map",
+    "index.html": "/maimonah95/Maimona-website/index.html",
+    "precache-manifest.cc8f046696edbe80674cba6486711636.js": "/maimonah95/Maimona-website/precache-manifest.cc8f046696edbe80674cba6486711636.js",
+    "service-worker.js": "/maimonah95/Maimona-website/service-worker.js",
+    "static/css/main.c389c768.chunk.css.map": "/maimonah95/Maimona-website/static/css/main.c389c768.chunk.css.map",
+    "static/js/2.4c28251f.chunk.js.LICENSE.txt": "/maimonah95/Maimona-website/static/js/2.4c28251f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1db77619.js",
+    "static/js/2.4c28251f.chunk.js",
+    "static/css/main.c389c768.chunk.css",
+    "static/js/main.e03c4598.chunk.js"
+  ]
+}

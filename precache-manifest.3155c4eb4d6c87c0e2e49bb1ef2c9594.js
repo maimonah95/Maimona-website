@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e389a4f84094a75fa4f07ffb3587515",
+    "revision": "9808dd6d461d3b1ed4cd5d3e27700c96",
     "url": "/Maimona-website/index.html"
   },
   {
-    "revision": "568b9486e27bda69e5af",
-    "url": "/Maimona-website/static/css/main.0de98792.chunk.css"
+    "revision": "a6b0c971fa21b715070f",
+    "url": "/Maimona-website/static/css/main.d3b9e397.chunk.css"
   },
   {
     "revision": "7b01bde3ba88df9c4371",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Maimona-website/static/js/2.4c28251f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "568b9486e27bda69e5af",
-    "url": "/Maimona-website/static/js/main.ec549039.chunk.js"
+    "revision": "a6b0c971fa21b715070f",
+    "url": "/Maimona-website/static/js/main.51f9106a.chunk.js"
   },
   {
     "revision": "bad90a59c892b203a48c",

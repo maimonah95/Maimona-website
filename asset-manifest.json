@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Maimona-website/static/css/main.d3b9e397.chunk.css",
-    "main.js": "/Maimona-website/static/js/main.51f9106a.chunk.js",
-    "main.js.map": "/Maimona-website/static/js/main.51f9106a.chunk.js.map",
+    "main.js": "/Maimona-website/static/js/main.76321f60.chunk.js",
+    "main.js.map": "/Maimona-website/static/js/main.76321f60.chunk.js.map",
     "runtime-main.js": "/Maimona-website/static/js/runtime-main.eee77e01.js",
     "runtime-main.js.map": "/Maimona-website/static/js/runtime-main.eee77e01.js.map",
     "static/js/2.4c28251f.chunk.js": "/Maimona-website/static/js/2.4c28251f.chunk.js",
     "static/js/2.4c28251f.chunk.js.map": "/Maimona-website/static/js/2.4c28251f.chunk.js.map",
     "index.html": "/Maimona-website/index.html",
-    "precache-manifest.3155c4eb4d6c87c0e2e49bb1ef2c9594.js": "/Maimona-website/precache-manifest.3155c4eb4d6c87c0e2e49bb1ef2c9594.js",
+    "precache-manifest.fa5fe08bef9484c7bc3461b82816caa1.js": "/Maimona-website/precache-manifest.fa5fe08bef9484c7bc3461b82816caa1.js",
     "service-worker.js": "/Maimona-website/service-worker.js",
     "static/css/main.d3b9e397.chunk.css.map": "/Maimona-website/static/css/main.d3b9e397.chunk.css.map",
     "static/js/2.4c28251f.chunk.js.LICENSE.txt": "/Maimona-website/static/js/2.4c28251f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.eee77e01.js",
     "static/js/2.4c28251f.chunk.js",
     "static/css/main.d3b9e397.chunk.css",
-    "static/js/main.51f9106a.chunk.js"
+    "static/js/main.76321f60.chunk.js"
   ]
 }

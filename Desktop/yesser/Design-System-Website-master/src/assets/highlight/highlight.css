@@ -1,0 +1,28 @@
+.hljs {
+    color: #000;
+}
+
+pre {
+    max-height: 300px;
+}
+
+
+.hljs-name {
+    color: #005A96;
+}
+
+.hljs-params {
+    color: #b9b9b9;
+}
+
+.hljs-string {
+    color: #AF0818;
+}
+
+.hljs-attr {
+    color: #26634B;
+}
+
+.hljs-tag {
+    display: block;
+}

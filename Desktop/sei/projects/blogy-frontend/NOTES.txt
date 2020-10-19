@@ -1,0 +1,18 @@
+API
+  => /api/articles
+  X /api/users
+  X /api/books
+  X ...
+  X ...
+
+Components
+  App State=[Article]
+    Articles  (List Container)
+      Article (List Item)
+
+      Delete Link/Button
+
+State
+  Articles
+
+Props

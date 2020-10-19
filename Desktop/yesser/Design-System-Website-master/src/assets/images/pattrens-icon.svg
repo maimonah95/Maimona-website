@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="46px" viewBox="0 0 33 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M899.145688,13.6739 C898.76,13.2415 898.236125,13 897.6875,13 L877.0625,13 C875.921938,13 875,14.0281 875,15.3 L875,56.7 C875,57.9719 875.921938,59 877.0625,59 L905.9375,59 C907.078062,59 908,57.9719 908,56.7 L908,24.5 C908,23.8882 907.783437,23.304 907.395688,22.8739 L899.145688,13.6739 Z M905,56.2272727 L878,56.2272727 L878,16.2272727 L897.3185,16.2272727 L905,24.7622727 L905,56.2272727 Z M883,38.6136364 C883,40.0589773 883.949875,41.2272727 885.125,41.2272727 L897.875,41.2272727 C899.050125,41.2272727 900,40.0589773 900,38.6136364 C900,37.1682955 899.050125,36 897.875,36 L885.125,36 C883.949875,36 883,37.1682955 883,38.6136364" id="path-1"></path>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00_HOMEPAGE" transform="translate(-1006.000000, -514.000000)">
+            <g id="Group-8" transform="translate(131.000000, 501.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Icon" fill="#160F3E" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

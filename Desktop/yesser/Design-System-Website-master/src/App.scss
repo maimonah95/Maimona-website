@@ -1,0 +1,220 @@
+@import 'govsa-ds/scss/components/color/variables.scss';
+
+html, body {
+    background-color: #e9ecef !important;
+    height: 100%;
+    overflow: auto; 
+}
+main{
+    height: 100%;
+    overflow: auto;  
+}
+#root{
+    height: 100%;
+    overflow: auto;  
+}
+
+.screen-hieght{
+    min-height: calc(100% - 528px);
+}
+.font24{
+    font-size: 24px !important;
+}
+
+.float-l{
+    float: right;
+    padding-top: 3px;
+    [dir="rtl"] & {
+     float: left;
+     padding-top: 3px;
+     padding-left:  1rem;
+ } 
+}
+.home-page-btn{
+    // display: flex !important;
+    // align-items: center;
+    padding-top: 3px;
+    [dir="rtl"] & {
+     padding-top: 3px;
+     padding-left:  1rem;
+ } 
+}
+
+@media only screen and (max-width: 767px) {
+    .float-l{
+        float: none;
+    
+    [dir="rtl"] & {
+        float: none;
+    }
+}
+}
+
+.govsa-fileupload a {
+    z-index: 0 !important;
+}
+.govsa-sidenavigation__bnt{
+    border: 1px solid #160F3E !important;
+    background: white !important;
+    color: #160F3E;
+    border-radius: 8px !important;
+    padding-top: .75rem !important;
+    padding-bottom: .5rem !important;
+    width: 100%;
+}
+.govsa-sidenavigation__bnt:focus{
+    border-radius: 8px 8px 0 0 !important;
+}
+
+
+.govsa-search__results.ds-header{
+    // margin-top: 2px;
+    // position: absolute ;
+    // top: auto ;
+    // overflow: auto;
+    // max-height: 230px;
+    // height: auto;
+    // background: white;
+    // width: 100%;
+    // z-index: 1;
+    left: 0px !important;
+    right: 0px !important;
+}
+
+.govsa-search__container .govsa-search__result {
+    padding: 0px 10px 5px 10px;
+}
+
+[dir="rtl"] .govsa-checkbox__checkmark {
+    transform: scaleX(1) !important;
+}
+
+[dir="rtl"] .govsa-search__container .govsa-search__result {
+    padding: 0px 10px 5px 10px !important;
+}
+
+.position-img{
+position: relative;
+bottom: 2.5px;
+[dir="rtl"] & {
+    bottom: 0px;
+    top:1px;
+}
+}
+
+#cod-text,
+#cod-text span{
+    text-align: left !important;
+}
+
+.box-color{
+    height: 100px;
+    width: 100px;
+}
+
+.footer-div-border{
+width: 100% !important;
+}
+
+@media only screen and (max-width: 767px) {
+.website-zoom{
+    font-size:21px !important;
+}
+}
+
+.Pagination-icon{
+    [dir="rtl"] & {
+    transform: rotate(180deg) !important;
+    margin-top: -6px;
+    }
+}
+.govsa-order-list{
+    [dir="rtl"] & {
+        list-style-type: arabic-indic;
+    }
+}
+pre#cod-text{
+    max-height: 500px;
+}
+@media only screen and (max-width: 767px) {
+.mobile-accordion-sideNavigation{
+    max-height: 220px;
+    overflow: auto;
+}
+
+.govsa-accordion-website .collapse .card-body{
+    max-height: 350px;
+    overflow: auto;
+}
+pre#cod-text{
+    max-height: 220px;
+}
+}
+@media only screen and (max-width: 844px){
+.accordion.mobile-accordion-sideNavigation {
+    border: 1px solid #160F3E;
+    border-radius: 0px 0px 8px 8px;
+    border-top: none;
+    background: white;
+    position: absolute;
+    width: 90.2%;
+    z-index: 1;
+}
+.nav-mobile-accordion-sideNavigation{
+    display: inline-block !important;
+    width: 100%;
+}
+}
+
+
+.btn:disabled{
+    cursor: default;
+}
+ol.thank-you-list li{
+    [dir="rtl"] & { 
+    list-style: arabic-indic;
+    }
+}
+.btn{
+    text-transform: none !important;
+}
+.govsa-fileupload .govsa-fileupload__input {
+    left: -90px;
+    right: 0px !important; 
+    [dir="rtl"] & { 
+        right: -90px !important; 
+        left: 0px;
+    }
+}
+
+
+.govsa-accordion .card .card-header i {
+    font-size: 13px;
+    [dir="rtl"] & { 
+    float: left;}
+}
+.govsa-table thead{
+    table-layout: fixed;
+}
+.govsa-search--small .govsa-search__input {
+    [dir="rtl"] & { 
+        height: 33px !important;
+    }   
+    [dir="ltr"] & { 
+        height: 33px !important;
+    } 
+}
+.govsa-search--small .govsa-search__button {
+    height: 33px !important;
+}
+
+.govsa-table{
+    .govsa-checkbox input {
+        [dir="rtl"] & { 
+            opacity: 0;
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+    }
+}

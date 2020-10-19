@@ -1,0 +1,24 @@
+body {
+  margin: 0px;
+}
+.color-1 {
+  background-color: tomato;
+}
+.color-2 {
+  background-color: blue;
+}
+.color-3 {
+  background-color: green;
+}
+.color-4 {
+  background-color: red;
+}
+.color-5 {
+  background-color: yellow;
+}
+.color-6 {
+  background-color: purple;
+}
+img {
+  width: 200px;
+}

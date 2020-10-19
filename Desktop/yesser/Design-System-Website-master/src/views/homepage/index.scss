@@ -1,0 +1,110 @@
+@import 'govsa-ds/scss/components/color/variables.scss';
+
+.styles-icon {
+  position: absolute !important;
+  top: 0px;
+  left: -20px;
+  bottom: 0px;
+  right: 0px;
+
+  [dir="rtl"] & {
+    left: 0px;
+    right: -20px;
+  }
+}
+
+.bg-circal {
+  height: 45px;
+  width: 45px;
+  background-color: $gray-pastel;
+  border-radius: 50%;
+  position: absolute !important;
+  top: 6px;
+  left: -26px;
+  bottom: 0px;
+  right: 0px;
+  [dir="rtl"] & {
+    right: -20px;
+  }
+
+}
+
+.bg-circal-spport {
+  height: 45px;
+  width: 45px;
+  background-color: $gray-pastel;
+  border-radius: 50%;
+  position: absolute !important;
+  left: -26px;
+  bottom: 0px;
+  right: 0px;
+  left: 7px;
+  top: 8px;
+  [dir="rtl"] & {
+    left: 0px;
+    right: 7px;
+    top: 7px;
+  }
+
+}
+
+.style-section {
+  margin-top: 5rem;
+  padding-left: 5rem;
+  padding-right: 1rem;
+
+  [dir="rtl"] & {
+    padding-left: 1rem;
+    padding-right: 5rem;
+  }
+}
+
+.box-position {
+  display: inlin3e-block;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+@media only screen and (max-width: 600px) {
+  .box-position {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+}
+
+.box-rounded {
+  border: 1px solid $darkBlue;
+  border-radius: 8px;
+  justify-content: center;
+}
+
+@media (max-width:1003px) and (min-width:768px) { 
+.bg-circal-spport {
+  height: 45px;
+  width: 45px;
+  background-color: $gray-pastel;
+  border-radius: 50%;
+  position: absolute !important;
+  top: 8px;
+  bottom: 0px;
+  right: 0px;
+  left: -8px;
+  [dir="rtl"] & {
+    left: 0px;
+    right: -10px;
+  }
+}
+.support-img{
+   left: 4px;
+   padding-top: 1rem;
+   [dir="rtl"] & {
+    left: 1px;
+   }
+}
+}
+.support-img{
+  padding-top: 0.75rem;
+  [dir="rtl"] & {
+    padding-top: 0.75rem;
+  }
+}

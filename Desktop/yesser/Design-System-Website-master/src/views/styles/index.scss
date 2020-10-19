@@ -1,0 +1,110 @@
+@import 'govsa-ds/scss/components/color/variables.scss';
+
+.border-radius {
+    border-radius: 8px;
+}
+
+.govsa-sideNavigation {
+    background-color: white;
+    padding-right: 0;
+}
+
+.border-dotted {
+    border-left: 1px dotted $gray;
+    margin-top: 1.20px;
+    [dir="rtl"] & {
+        border-left: none;
+        border-right: 1px dotted $gray;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+    .border-dotted {
+        border-left: none;
+        [dir="rtl"] & {
+            border-right: none;
+        }
+    
+    }
+    .img-width{
+        width: 100%;
+    }
+}
+// .img-width{
+//     width: 100%;
+// }
+.govsa-accordion-website {
+    .card {
+        border: none;
+    }
+
+    .card-header {
+        background-color: white;
+        font-weight: bold;
+        color: $darkBlue;
+
+        border: none;
+        text-align: left;
+        display: inline-block;
+        [dir="rtl"] & {
+            text-align: right;
+        }
+
+        i {
+            font-size: 8px;
+            float: right;
+            margin: 10px;
+            transition: all .2s;
+            [dir="rtl"] & {
+                float: left;
+            }
+        }
+
+        &:focus {
+            outline: none;
+        }
+
+        &[aria-expanded="true"] {
+            i {
+                margin-top: 10px;
+                padding: 0px;
+                // float: right;
+                -ms-transform: rotate(180deg);
+                /* IE 9 */
+                -webkit-transform: rotate(180deg);
+                /* Safari 3-8 */
+                transform: rotate(180deg);
+            }
+
+            &:focus {
+                outline: none;
+            }
+        }
+    }
+
+    img {
+        margin-right: 15px;
+
+        [dir="rtl"] & {
+            margin-left: 15px;
+        }
+    }
+
+    .card-body {
+        border-top: 1px solid $gray;
+    }
+}
+
+
+.box-color-small {
+    height: 35px;
+    width: 35px;
+}
+  
+.float-right{
+   float: right;
+   [dir="rtl"] & {
+    float: left;
+  }
+}

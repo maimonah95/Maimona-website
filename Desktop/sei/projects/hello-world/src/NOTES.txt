@@ -1,0 +1,3 @@
+state is mutable(Not directaly) => we can change it 
+
+props  isnt mutable

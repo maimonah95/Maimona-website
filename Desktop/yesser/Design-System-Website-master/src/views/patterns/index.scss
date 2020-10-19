@@ -1,0 +1,18 @@
+.border-radius {
+    border-radius: 8px;
+}
+
+.govsa-checkbox {
+    input {
+      &:disabled{
+        &:hover~.govsa-checkbox__checkmark {
+          box-shadow: none;
+        }
+    
+        &:active~.govsa-checkbox__checkmark,
+        &:focus~.govsa-checkbox__checkmark {
+          box-shadow: none;
+        }
+      }
+    }
+}

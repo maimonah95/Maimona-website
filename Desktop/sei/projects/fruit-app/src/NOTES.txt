@@ -1,0 +1,31 @@
+Before starting your app / App Structure;
+
+1. components
+  - ~ App (container)
+    - ~ Search 
+    - X List (container)
+      - X Item(s)
+2. Props
+  - Fruits[Array]
+
+3. State
+
+Family:
+  Child 1
+    X   Parent 1
+  Child 2
+      X       X    Grand Parent
+  Child 3
+    X   Parent 2
+  Child 4
+
+
+  Item 1
+    X   List Container(Fruits Array)
+  Item 2
+      X       X    App[Fruits Array]
+  Input 3
+    X   Search 2
+  Label 4
+
+

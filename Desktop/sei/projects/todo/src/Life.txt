@@ -1,0 +1,36 @@
+Life 
+
+Born -> 
+{  Initializin / Mounting
+constructor()
+render()}
+
+Live ->
+ {} updating 
+  render()
+  }
+
+  Die ->
+  {
+      UnMounting / destruction 
+      componentWillUnmount()
+  }
+
+
+  Weather Component
+App Component
+  <Weather cityName={'Jeddah'} />
+    getWeatherDataFromAPI()
+      => API CALL()
+    Born
+      constructor()
+      render()
+        ....
+          {state}
+        ....
+      componentDidMount()
+        setState = getWeatherDataFromAPI()
+    Live
+      render()
+    Die
+  <Weather cityName={'Riyadh'} />
